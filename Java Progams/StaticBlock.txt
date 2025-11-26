@@ -1,0 +1,12 @@
+//Static Blocks
+
+
+class StaticBlock
+{
+ 	static{System.out.println("Static block executed...");}
+
+	public staticvoid main(String args[])
+	{
+		System.out.println("MAin method executed...");
+	}
+}

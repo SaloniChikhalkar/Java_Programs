@@ -1,0 +1,36 @@
+ bank account = state : saving current bussiness salary branch acc holder 
+bahavior : open block credit debit password etc
+
+vehicle = state : color brand two weeler 4 wheeler name
+behavior : start stop break drive horn 
+
+
+object any real world entity which have state and behavior
+
+how to create object?
+
+
+class objdemo
+{
+
+psvm (string arfgs[])
+{
+classname objectname = new classname();
+objdemo obj1 =new objectdemo();
+}
+}
+
+
+
+
+
+10/11/2025
+
+jagged array: collection of array.
+
+String: sequence of character/character array.
+unmutable
+common memory allocates to the same variable data
+S varname=value;
+String s1=new String(value);
+
