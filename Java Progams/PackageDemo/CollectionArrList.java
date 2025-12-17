@@ -1,4 +1,4 @@
-//how to ocreate collection in java?
+//how to create collection in java?
 import java.util.*;
 class CollectionArrList
 {
