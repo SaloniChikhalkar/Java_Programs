@@ -36,4 +36,4 @@ class LikedListDemo
 2.remove(index) : remove element at specific index
 3.removeFirst() amd  pollFirst() : remove first element
 4.reoveLast() and pollLast() : remove last element
-5.contains(),6.offer(),7.offerFirst(),8.offerLast(),9.clone().
+5.contains(),6.offer(),7.offerFirst(),8.offerLast(),9.clone().*/
