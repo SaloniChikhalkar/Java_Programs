@@ -1,4 +1,4 @@
-// Map Interface
+// Map Interface .explore methods of map and hashSet() HashMap().
 import java.util.*;
 class CollectionMapDemo
 {
